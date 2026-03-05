@@ -131,13 +131,12 @@ main {
 .icon-sailors  { background: linear-gradient(135deg, #eeeeee, #ffffff); }
 .icon-klartext { background: linear-gradient(135deg, #2c2c2a, #4a4a46); }
 .icon-sailing  { background: linear-gradient(135deg, #1a4a3a, #2d7a5e); }
-.icon-divers   { background: linear-gradient(135deg, #1a2a5c, #1a5c8f); }
 
 .app-meta { display: flex; flex-direction: column; gap: 0.35rem; }
 
 .app-name {
   font-family: 'EB Garamond', Garamond, Georgia, serif;
-  font-size: 1.25rem;
+  font-size: 1.6rem;
   font-weight: 600;
   letter-spacing: 0;
 }
