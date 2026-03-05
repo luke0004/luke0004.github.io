@@ -44,7 +44,7 @@ header .mono { margin-bottom: 1.5rem; }
 
 h1 {
   font-family: 'EB Garamond', Garamond, Georgia, serif;
-  font-size: clamp(2.0rem, 5vw, 3.4rem);
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
   font-weight: 600;
   line-height: 1.15;
   letter-spacing: -0.005em;
