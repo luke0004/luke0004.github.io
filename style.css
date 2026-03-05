@@ -101,7 +101,7 @@ main {
   gap: 1.25rem;
   align-items: start;
   padding: 2rem 0;
-  border-bottom: 1px solid var(--rule);
+  border-bottom: 0px solid var(--rule);
   opacity: 0;
   animation: fadeUp 0.6s ease forwards;
   text-decoration: none;
