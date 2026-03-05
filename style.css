@@ -44,10 +44,10 @@ header .mono { margin-bottom: 1.5rem; }
 
 h1 {
   font-family: 'EB Garamond', Garamond, Georgia, serif;
-  font-size: clamp(2.4rem, 5vw, 3.4rem);
+  font-size: clamp(2.0rem, 5vw, 3.4rem);
   font-weight: 600;
   line-height: 1.15;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.005em;
 }
 
 h1 em {
@@ -66,7 +66,7 @@ h1 em {
 
 hr.rule {
   border: none;
-  border-top: 1px solid var(--rule);
+  border-top: 0px solid var(--rule);
   margin: 2.5rem 0;
 }
 
