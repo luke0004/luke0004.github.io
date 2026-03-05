@@ -111,7 +111,7 @@ main {
 
 .app-card:first-child { 
   border-top: 0px solid var(--rule); 
-  padding: 0 0 1rem 0;
+  padding: 2rem 0 0 0;
 }
 
 .app-card:hover { background: var(--paper-dark); margin: 0 -1.5rem; padding-left: 1.5rem; padding-right: 1.5rem; }
