@@ -24,6 +24,7 @@ header {
   margin: 0 auto;
   opacity: 0;
   animation: fadeUp 0.8s ease forwards;
+  border-bottom: 10px solid #eeeeee;
 }
 
 h1 {
@@ -123,6 +124,7 @@ main {
   line-height: 1.8;
   color: var(--muted);
   max-width: 560px;
+  border-top: 10px solid #eeeeee;
 }
 
 .about p + p { margin-top: 1rem; }
