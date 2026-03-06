@@ -19,8 +19,8 @@ body {
 
 /* ── HEADER ── */
 header {
-  max-width: 720px;
-  padding: 2rem 0 2rem 0;
+  max-width: 640px;
+  padding: 2rem 0 1.3rem 0;
   margin: 0 auto;
   opacity: 0;
   animation: fadeUp 0.8s ease forwards;
@@ -43,7 +43,7 @@ h1 {
 
 /* ── MAIN ── */
 main {
-  max-width: 720px;
+  max-width: 640px;
   margin: 0 auto;
   padding: 1rem 0rem 5rem;
 }
@@ -93,7 +93,7 @@ main {
 
 .app-name {
   font-family: 'EB Garamond', Garamond, Georgia, serif;
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: 600;
   color: var(--inklight);
   transition: color 0.3s ease;
@@ -112,7 +112,7 @@ main {
 
 /* ── ABOUT ── */
 .about {
-  border-top: 3px solid var(--rule);
+  border-top: 0px solid var(--rule);
   margin-top: 3rem;
   padding-top: 1.8rem;
   opacity: 0;
